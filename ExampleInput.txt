@@ -1,0 +1,9 @@
+One value in each string. End of data is empty string.
+
+EXAMPLE
+{
+2323
+2424
+4654
+		// Empty string - signal of end data
+}
